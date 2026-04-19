@@ -36,7 +36,7 @@ Most SAR drones are either too expensive for small teams to field, too large to 
 
 
 # Contributing
-PRs welcome. Open an issue first for anything significant. I would love to have meaningful contributions to this project — whether that's improvements to the CV pipeline, flight controller configs, or airframe design.
+PRs welcome. Open an issue first for anything significant. I would love to have meaningful contributions to this project — whether that's improvements to the CV pipeline, flight controller configs, or airframe design!
 
 
 # Images Of Nexus
@@ -53,3 +53,7 @@ PRs welcome. Open an issue first for anything significant. I would love to have 
 # BOM
 
 ![BOM](images/Screenshot%202026-04-19%20091853.png)
+
+# UPDATES
+
+I'll be adding config files and Ardupilot parameter files after my project gets approved and I get my flight controller in.
