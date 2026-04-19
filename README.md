@@ -48,7 +48,7 @@ PRs welcome. Open an issue first for anything significant. I would love to have 
 
 # Electrical System Architecture
 
-![Electrical System Architecture](Screenshot 2026-04-19 133850.png)
+![Electrical System Architecture](Screenshot%202026-04-19%20133850.png)
 
 # BOM
 
